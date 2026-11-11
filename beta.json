@@ -1,0 +1,6 @@
+{
+  "version": "0.5.12",
+  "package_url": "https://github.com/boshxc/MS-Updates/releases/download/v0.5.12/MailScope_Setup_0.5.12.exe",
+  "sha256": "272dae7c3fc128102395acb204606e07bc1538d71478f2720bac16a4852379a2",
+  "notes": "MailScope v0.5.12 Beta: Dashboard update notifications, built-in update feed, background update checks, Chromium improvements, and log formatting improvements."
+}
