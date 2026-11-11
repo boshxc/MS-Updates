@@ -1,6 +1,6 @@
 {
-  "version": "0.5.12",
-  "package_url": "https://github.com/boshxc/MS-Updates/releases/download/v0.5.12/MailScope_Setup_0.5.12.exe",
-  "sha256": "272dae7c3fc128102395acb204606e07bc1538d71478f2720bac16a4852379a2",
-  "notes": "MailScope v0.5.12 Beta: Dashboard update notifications, built-in update feed, background update checks, Chromium improvements, and log formatting improvements."
+  "version": "0.5.13",
+  "package_url": "https://github.com/boshxc/MS-Updates/releases/download/v0.5.13/MailScope_Setup_0.5.13.exe",
+  "sha256": "a48b97c8c9684bfc288cabd3003ef916b5b454191d7f3eac9a8fb8c0e9c687e6",
+  "notes": "MailScope v0.5.13 Beta: Improved packaged Chromium compatibility, verified browser launch and automated interaction, and improved Windows build validation."
 }
