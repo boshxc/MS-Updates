@@ -1,6 +1,6 @@
 {
-  "version": "0.5.14",
-  "package_url": "https://github.com/boshxc/MS-Updates/releases/download/v0.5.14/MailScope_Setup_0.5.14.exe",
-  "sha256": "bdc975e1d21069d80a4fd420a152ae7b48d67725b8088f594a8c70ea61a39998",
-  "notes": "MailScope v0.5.14 Beta: Improved Reggora mailbox identification, detection and acceptance controls, system-tray functionality, Windows startup behavior, configuration persistence, and authorized live auto-accept safeguards."
+  "version": "0.5.15",
+  "package_url": "https://github.com/boshxc/MS-Updates/releases/download/v0.5.15/MailScope_Setup_0.5.15.exe",
+  "sha256": "489715d9fcc7b476822f068ebadaa0badaeb8c6d80a01d6c9e331938d886b863",
+  "notes": "MailScope v0.5.15 Beta: Improved Outlook mailbox management, manual recovery scanning with configurable lookback periods, recovery scan results and diagnostics, and user interface refinements."
 }
