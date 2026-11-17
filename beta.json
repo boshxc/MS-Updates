@@ -1,6 +1,6 @@
 {
-  "version": "0.5.15",
-  "package_url": "https://github.com/boshxc/MS-Updates/releases/download/v0.5.15/MailScope_Setup_0.5.15.exe",
-  "sha256": "489715d9fcc7b476822f068ebadaa0badaeb8c6d80a01d6c9e331938d886b863",
-  "notes": "MailScope v0.5.15 Beta: Improved Outlook mailbox management, manual recovery scanning with configurable lookback periods, recovery scan results and diagnostics, and user interface refinements."
+  "version": "0.5.16",
+  "package_url": "https://github.com/boshxc/MS-Updates/releases/download/v0.5.16/MailScope_Setup_0.5.16.exe",
+  "sha256": "2a6354657a2c43923808090caf12efab52f5449eb399c239385e176c569fafb6",
+  "notes": "MailScope v0.5.16 Beta: Improved Reggora acceptance workflows and safeguards, monitoring statistics, unique email scan counting, and interface refinements."
 }
